@@ -38,7 +38,7 @@ public class Main {
 		  
 		  int search_num = 2;
 		  int thread_num = 1000;
-		  String train_date = "2014-03-04";
+		  String train_date = "2014-03-05";
 		  		  
 		  long start = System.currentTimeMillis();
 		  
